@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning about microservice architecture
 - 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
 - 📫 How to reach me ...
-- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" />][gmail](mailto:sangeerththan.15@cse.mrt.ac.lk)
-- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/LinkedIn.png" />][linkedin](https://www.linkedin.com/in/sangeerththanbalachandran/)
-- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Medium.png" />][medium](https://www.linkedin.com/in/sangeerththanbalachandran/)
-- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" />][stackoverflow](https://stackoverflow.com/users/9538584/sangeerththan-b)
-- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" />][twitter](https://twitter.com/sangeerth20)
+- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" />](mailto:sangeerththan.15@cse.mrt.ac.lk)
+- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/LinkedIn.png" />](https://www.linkedin.com/in/sangeerththanbalachandran/)
+- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Medium.png" />](https://www.linkedin.com/in/sangeerththanbalachandran/)
+- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" />](https://stackoverflow.com/users/9538584/sangeerththan-b)
+- [<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" />](https://twitter.com/sangeerth20)
 
 ## Medium Blogs
 ![Medium Blogs](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&limit=3&theme=tokyonight)
