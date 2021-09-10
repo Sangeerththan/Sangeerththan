@@ -13,10 +13,14 @@
 ![Medium Blogs](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&limit=3&theme=tokyonight)
 
 
-_## Profile Statistics
+## Profile Statistics
 
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.Sangeerththan.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&layout=compact&theme=radical" />
 </a>
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sangeerththan" alt="Visitors">                     
+</p>
