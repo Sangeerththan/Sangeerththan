@@ -21,8 +21,8 @@
 <img align="center" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical" />
 </a>
 
 <p align=center>                           
