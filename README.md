@@ -12,7 +12,7 @@
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" />](https://twitter.com/sangeerth20)
 
 ## Medium Blogs
-[![Medium Blogs](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=7)](https://medium.com/@sangeerththanbalachandran)
+[![Medium Blogs](https://redme-vercel.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=7)](https://medium.com/@sangeerththanbalachandran)
 
 ## Profile Statistics
 
