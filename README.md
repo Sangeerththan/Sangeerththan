@@ -101,9 +101,9 @@ const getMediumTexts = async () => {
         console.log(post.content)
     }
 };
-getMediumTexts();
-```
 
+```
+getLatestTextsList();
 
 ## Profile Statistics
 
