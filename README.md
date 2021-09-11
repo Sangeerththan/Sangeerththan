@@ -12,8 +12,8 @@
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" />](https://twitter.com/sangeerth20)
 
 ## Medium Blogs
-![Medium Blogs](https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@sangeerththanbalachandran)
-<scrpipt>
+[![Medium Blogs](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=7)](https://medium.com/@sangeerththanbalachandran)
+<script>
 const username = `sangeerththanbalachandran`
 const RSSUrl = `https://medium.com/feed/@${username}`;
 const RSSConverter = `https://api.rss2json.com/v1/api.json?rss_url=${RSSUrl}`;
@@ -101,7 +101,7 @@ const getMediumTexts = async () => {
     }
 };
 getLatestTextsList();
-</scrpipt>
+</script>
 
 ## Profile Statistics
 
