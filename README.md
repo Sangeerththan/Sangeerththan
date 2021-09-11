@@ -13,8 +13,7 @@
 
 ## Medium Blogs
 ![Medium Blogs](https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@sangeerththanbalachandran)
-
-```
+<scrpipt>
 const username = `sangeerththanbalachandran`
 const RSSUrl = `https://medium.com/feed/@${username}`;
 const RSSConverter = `https://api.rss2json.com/v1/api.json?rss_url=${RSSUrl}`;
@@ -101,9 +100,8 @@ const getMediumTexts = async () => {
         console.log(post.content)
     }
 };
-
-```
 getLatestTextsList();
+</scrpipt>
 
 ## Profile Statistics
 
