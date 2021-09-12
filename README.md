@@ -21,7 +21,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical">
-  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=prussian" />
+  <img align="center" margin="1rem" padding="1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=prussian" />
 </a>
 
 <p align=center>                           
