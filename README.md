@@ -18,6 +18,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
 <img align="center" margin="1rem" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&count_private=true&include_all_commits=true&theme=prussian&compact=false" /></a>
 
+<!-- [![Sangeerththan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sangeerththan)](https://github.com/sangeerththan) -->
+
 ## Mostly Used Programming Languages(Approximately)
 <a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&theme=prussian" />
