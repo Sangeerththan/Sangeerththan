@@ -5,11 +5,11 @@
 
 <p  align="left"> 📫 You can ping me through... </p>
 
--[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" />](mailto:sangeerththan.15@cse.mrt.ac.lk)
--[<img align="left" alt="Sangeerththan" height="22px" src="./icons/LinkedIn.png" />](https://www.linkedin.com/in/sangeerththanbalachandran/)
--[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Medium.png" />](https://www.linkedin.com/in/sangeerththanbalachandran/)
--[<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" />](https://stackoverflow.com/users/9538584/sangeerththan-b)
--[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" />](https://twitter.com/sangeerth20)
+-[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" target=_blank />](mailto:sangeerththan.15@cse.mrt.ac.lk)
+-[<img align="left" alt="Sangeerththan" height="22px" src="./icons/LinkedIn.png" target=_blank />](https://www.linkedin.com/in/sangeerththanbalachandran/)
+-[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Medium.png" target=_blank />](https://medium.com/@sangeerththanbalachandran)
+-[<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" target=_blank />](https://stackoverflow.com/users/9538584/sangeerththan-b)
+-[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" target=_blank />](https://twitter.com/sangeerth20)
 
 ## Latest Medium Blogs
 [![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=3&theme=prussian)](https://medium.com/@sangeerththanbalachandran)
