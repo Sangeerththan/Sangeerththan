@@ -21,7 +21,11 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical">
+<<<<<<< HEAD
   <img align="right" margin="1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical" />
+=======
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical" />
+>>>>>>> parent of 9deea4b... [REFACTOR][PENDING] - margin added for stats card
 </a>
 
 <p align=center>                           
