@@ -12,7 +12,7 @@
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" target=_blank />](https://twitter.com/sangeerth20)
 
 ## Latest Medium Blogs
-[![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=3&theme=prussian)](https://medium.com/@sangeerththanbalachandran)
+[![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=4&theme=prussian)](https://medium.com/@sangeerththanbalachandran)
 
 ## Profile Information
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
