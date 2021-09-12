@@ -14,15 +14,14 @@
 ## Latest Medium Blogs
 [![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=3)](https://medium.com/@sangeerththanbalachandran)
 
-## Profile Statistics
+## Profile Information
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
-<img align="left" margin="1rem" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian" /></a>
+<img align="center" margin="1rem" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&count_private=true&include_all_commits=true&theme=prussian&compact=false" /></a>
 
-## language Statistics
-<a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=prussian" />
+## Mostly Used Programming Languages(Approximately)
+<a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&theme=prussian" />
 </a>
-<br><br><br><br><br><br><br><br><br>
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sangeerththan" alt="Visitors">                     
 </p>
