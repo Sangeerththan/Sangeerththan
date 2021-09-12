@@ -17,7 +17,8 @@
 ## Profile Statistics
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
 <img align="left" margin="1rem" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian" /></a>
-<br><br><br><br><br><br><br><br><br>
+
+## language Statistics
 <a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=radical">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&layout=compact&theme=prussian" />
 </a>
