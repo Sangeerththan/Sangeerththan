@@ -20,6 +20,9 @@
 
 [![Sangeerththan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sangeerththan&theme=prussian&v=2)](https://github.com/sangeerththan)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Mostly Used Programming Languages(Approximately)
 <a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&theme=prussian" />
