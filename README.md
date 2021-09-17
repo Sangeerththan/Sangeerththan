@@ -17,8 +17,8 @@
 ## Profile Information
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
 <img align="center" margin="1rem" alt="Sangeerththan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&count_private=true&include_all_commits=true&theme=prussian&compact=false" /></a>
-
-[![Sangeerththan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sangeerththan&theme=prussian&v=2)](https://github.com/sangeerththan)
+<!-- 
+[![Sangeerththan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sangeerththan&theme=prussian&v=2)](https://github.com/sangeerththan) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
