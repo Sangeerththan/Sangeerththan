@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
 
+##StackOverflow
+<a href="https://stackexchange.com/users/13207240/sangeerththan-balachandran"><img src="https://stackexchange.com/users/flair/13207240.png" width="208" height="58" alt="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <p  align="left"> 📫 You can ping me through... </p>
 
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" target=_blank />](mailto:sangeerththan.15@cse.mrt.ac.lk)
