@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
 
-
-<a href="https://stackexchange.com/users/13207240/sangeerththan-balachandran"><img src="https://stackexchange.com/users/flair/13207240.png" width="208" height="58" alt="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
 <p  align="left"> 📫 You can ping me through... </p>
 
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" target=_blank />](mailto:sangeerththan.15@cse.mrt.ac.lk)
@@ -13,6 +10,8 @@
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Medium.png" target=_blank />](https://medium.com/@sangeerththanbalachandran)
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" target=_blank />](https://stackoverflow.com/users/9538584/sangeerththan-b)
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" target=_blank />](https://twitter.com/sangeerth20)
+
+<a href="https://stackexchange.com/users/13207240/sangeerththan-balachandran"><img src="https://stackexchange.com/users/flair/13207240.png" width="208" height="58" alt="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Latest Medium Blogs
 [![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=3&theme=prussian)](https://medium.com/@sangeerththanbalachandran)
