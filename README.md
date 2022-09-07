@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sangeerththan
 - 👀 I’m interested in programming, mathematics and biking
-- 🌱 I’m currently learning Appian
+- 🌱 I’m currently learning Azure and React
 - 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
 
 <p  align="left"> 📫 You can ping me through... </p>
