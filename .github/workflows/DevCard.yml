@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "10 19 * * *"
+    - cron: "17 19 * * *"
 
 jobs:
   devcard:
