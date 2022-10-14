@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Sangeerththan
-- 👀 I’m interested in programming, mathematics and biking
-- 🌱 I’m currently learning Azure and React
-- 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
+<a class="col-3" align="left" href="https://app.daily.dev/Sangeerththan"><img src="https://api.daily.dev/devcards/7fa33c4cd4d54729b7190a961aa0fa1e.png?r=tc3" width="600" alt="Sangeerththan Balachandran's Dev Card"/></a>
 
-<p  align="left"> 📫 You can ping me through... </p>
+-👋 Hi, I’m @Sangeerththan 👀 I’m interested in programming, mathematics and biking 🌱 I’m currently learning Azure and React 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
+  <p  align="left"> 📫 You can ping me through... </p>
 
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Gmail.png" target=_blank />](mailto:sangeerththan.15@cse.mrt.ac.lk)
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/LinkedIn.png" target=_blank />](https://www.linkedin.com/in/sangeerththanbalachandran/)
