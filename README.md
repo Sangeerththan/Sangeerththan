@@ -10,10 +10,7 @@
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/StackOverflow.png" target=_blank />](https://stackoverflow.com/users/9538584/sangeerththan-b)
 -[<img align="left" alt="Sangeerththan" height="22px" src="./icons/Twitter.png" target=_blank />](https://twitter.com/sangeerth20)
 
-<a href="https://stackexchange.com/users/13207240/sangeerththan-balachandran"><img src="https://stackexchange.com/users/flair/13207240.png" width="208" height="58" alt="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sangeerththan Balachandran on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
-## Latest Medium Blogs
-[![Medium Blogs](https://github-readme-medium-card-119xojrqa-sangeerththan.vercel.app/getMediumBlogs?username=sangeerththanbalachandran&type=vertical&limit=3&theme=prussian)](https://medium.com/@sangeerththanbalachandran)
+[![Sangeerththan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9538584)](https://stackoverflow.com/users/9538584/sangeerththan-balachandran)
 
 ## Profile Information
 <a href="https://github-readme-stats.vercel.app/api?username=Sangeerththan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian">
@@ -27,7 +24,6 @@
 ## Mostly Used Programming Languages(Approximately)
 <a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&theme=prussian" />
-</a>
-<p align=center>                           
+</a>                          
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sangeerththan" alt="Visitors">                     
 </p>
