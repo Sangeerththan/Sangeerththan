@@ -1,4 +1,5 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Sangeerththan/Sangeerththan/blob/main/devcard.svg" width="400" alt="Sangeerththan's Dev Card"/></a>
+![GitHub Snake Light](https://raw.githubusercontent.com/Sangeerththan/Sangeerththan/output/github-contribution-grid-snake.svg)
 
 -👋 Hi, I’m @Sangeerththan 👀 I’m interested in programming, mathematics and biking 🌱 I’m currently learning Azure and React 💞️ I’m looking to collaborate on projects that can help to solve critical issues of people.
   <p  align="left"> 📫 You can ping me through... </p>
