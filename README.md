@@ -25,5 +25,5 @@
 <a margin="1rem" padding="1rem" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeerththan&langs_count=10&theme=prussian" />
 </a>                          
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sangeerththan" alt="Visitors">                     
+  <img align="center"  src="https://visitor-badge.laobi.icu/badge?page_id=sangeerththan" alt="Visitors">                     
 </p>
